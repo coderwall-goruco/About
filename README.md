@@ -1,10 +1,10 @@
-#### The Goruco Achievement is awarded to registered Coderwall members that attended the 2011 NYC GoRuCo Ruby Conference. 
+#### The GoRuCo Achievement is awarded to registered Coderwall members that attended the 2011 NYC GoRuCo Ruby Conference. 
 
 ## What is Coderwall
 
 [Coderwall](https://coderwall.com/gh) is a network of developers that care about their craft. We recognize your programming accomplishments and make it easy to connect with others developers.
 
-## How do I unlock the Goruco achievement?
+## How do I unlock the GoRuCo achievement?
 
 Easy! Visit [coderwall.com](https://coderwall.com/gh) and create an account. We'll monitor your public github repo once a week and award you new achievements.
 
